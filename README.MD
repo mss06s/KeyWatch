@@ -8,8 +8,6 @@ Not an antivirus—just a fast, UI-first sanity check.
 ![All clear](./screenshots/all_clear.png)
 ![Warning](./screenshots/warning.png)
 
-> Demo GIF: <https://your-gyazo-or-sharex-link>
-
 ---
 
 ## ✨ What it checks
