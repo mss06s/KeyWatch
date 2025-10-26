@@ -3,7 +3,7 @@
 A minimal, aesthetic Windows app (PySide6) that **heuristically** flags keylogger-style persistence.
 
 It checks common persistence points and gives you a simple, visual “is anything sketchy here?” answer.
-Not an antivirus—just a fast, UI-first sanity check.
+Not an antivirus-just a fast, UI-first sanity check.
 
 ![All clear](./screenshots/all_clear.png)
 ![Warning](./screenshots/warning.png)
